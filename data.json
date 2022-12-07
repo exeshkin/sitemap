@@ -1,5 +1,14 @@
 {
     "services": {
+        "2022-12-07-23-00-00": {
+            "date": "2022-12-07",
+            "minister": "Анатолий Склонный",
+            "link": "minister-sklonnyi.html",
+            "name": "Когда воскликнули иудеи",
+            "urlMP3": "mp3/anatoly_sklonnyy/22-1207_Kogda_voscliknuli_iudei.mp3",
+            "ytId": "Wz1nEj-Wbe4",
+            "urlScreen": "img/services/2022-12-07.webp"
+        },
         "2022-12-04-23-00-00": {
             "date": "2022-12-04",
             "minister": "Владимир Иванов",
@@ -9,7 +18,7 @@
             "ytId": "y942C_4Dr60",
             "urlScreen": "img/services/2022-12-04.webp"
         },
-        "2022-11-30-27-00-00": {
+        "2022-11-30-23-00-00": {
             "date": "2022-11-30",
             "minister": "Анатолий Склонный",
             "link": "minister-sklonnyi.html",
@@ -18,7 +27,7 @@
             "ytId": "0eX4On2aIDc",
             "urlScreen": "img/services/2022-11-30.webp"
         },
-        "2022-11-23-27-00-00": {
+        "2022-11-27-23-00-00": {
             "date": "2022-11-27",
             "minister": "Анатолий Склонный",
             "link": "minister-sklonnyi.html",
